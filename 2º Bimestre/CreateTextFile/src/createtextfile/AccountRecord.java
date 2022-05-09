@@ -1,4 +1,5 @@
-package accountrecord;
+
+package com.deitel.ch17; 
 
 public class AccountRecord {
 
